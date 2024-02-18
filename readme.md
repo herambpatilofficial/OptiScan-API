@@ -31,6 +31,7 @@ This is a FastAPI application for predicting Glaucoma in images using a TensorFl
    Replace `path/to/your/image.jpg` with the actual path to the image file you want to test.
 
 2. View the prediction result in the response.
+3. You can test APIs at ```http://127.0.0.1:8000/docs```
 
 ## Additional Notes
 
